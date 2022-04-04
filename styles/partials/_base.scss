@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+/////////////////////////////////
+// frontend-mentor
+/////////////////////////////////
+
+body {
+  background-color: var(--color-primary--violet);
+  padding: 1em;
+  color: #fff;
+  font-family: var(--font-family--body);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family--headings);
+}
+
+ul {
+  list-style: none;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
