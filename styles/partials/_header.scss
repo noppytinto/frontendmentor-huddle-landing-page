@@ -1,7 +1,9 @@
 
 .header {
+  padding-bottom: clamp(3.5em, 1vw, 5em);
+
   &__logo {
-    width: clamp(100px, 25%, 200px);
+    width: clamp(100px, 45%, 200px);
   }
 
 }// .header
